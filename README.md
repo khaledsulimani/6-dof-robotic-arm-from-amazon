@@ -30,6 +30,10 @@ The design of the robotic arm was made using two main software tools:
 4. *Wiring and Electronics*: Connect the motors to a microcontroller (e.g., Arduino or Raspberry Pi) to control the servos. Ensure you have the proper power supply and motor drivers.
 5. *Programming*: Upload the control code to your microcontroller to begin controlling the robotic arm. You can use any suitable library, such as Servo.h in Arduino, to manage the servo movements.
 
+## 📸 Project Results
+
+### *the last form for robotic arm*:![صورة واتساب بتاريخ 1447-01-22 في 04 21 54_85767a8d](https://github.com/user-attachments/assets/003248e5-052c-4b8f-92d7-aba742702f45)
+
 ## 💻 Control and Programming
 
 To control the robot arm, you'll need to write code to control each of the 6 servo motors. Here's a simple example in Arduino:
